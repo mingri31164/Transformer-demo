@@ -1,6 +1,8 @@
 # Transformer 架构学习指南
 
 > 本项目通过一个**情感分析（Sentiment Analysis）** 任务场景，从零演示 Transformer 架构中每一个模块的设计思想、数据流动过程和代码实现。适合作为 Transformer 入门学习资料。
+>
+> 参考资料：https://hello-agents.datawhale.cc/#/./chapter3/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80?id=_312-transformer-%e6%9e%b6%e6%9e%84%e8%a7%a3%e6%9e%90
 
 ---
 
